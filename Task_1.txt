@@ -1,2 +1,6 @@
 Rollno:y19cb028
 Emailid:varshithakarusala10@gmail.com
+name:varshithakarusala
+department:csbs
+city:guntur
+
